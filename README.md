@@ -5,7 +5,7 @@ This extension provides the [redis](http://redis.io/) key-value store support fo
 It includes a `Cache` and `Session` storage handler in redis.
 
 
-[![Build Status](https://travis-ci.org/dcb9/yii2-phpredis.svg)](https://travis-ci.org/dcb9/yii2-phpredis)
+[![Build Status](https://travis-ci.org/dcb9/yii2-phpredis.svg?branch=master)](https://travis-ci.org/dcb9/yii2-phpredis)
 [![Code Climate](https://codeclimate.com/github/dcb9/yii2-phpredis/badges/gpa.svg)](https://codeclimate.com/github/dcb9/yii2-phpredis)
 [![Test Coverage](https://codeclimate.com/github/dcb9/yii2-phpredis/badges/coverage.svg)](https://codeclimate.com/github/dcb9/yii2-phpredis/coverage)
 [![Issue Count](https://codeclimate.com/github/dcb9/yii2-phpredis/badges/issue_count.svg)](https://codeclimate.com/github/dcb9/yii2-phpredis)
@@ -13,14 +13,14 @@ It includes a `Cache` and `Session` storage handler in redis.
 [![Total Downloads](https://poser.pugx.org/dcb9/yii2-phpredis/downloads)](https://packagist.org/packages/dcb9/yii2-phpredis)
 [![License](https://poser.pugx.org/dcb9/yii2-phpredis/license)](https://packagist.org/packages/dcb9/yii2-phpredis)
 
-**Notice: THIS REPO DID NOT SUPPORT ACTIVE RECORD.**
+**Notice: THIS REPO DOES NOT SUPPORT ACTIVE RECORD.**
 
 Requirements
 ------------
 
-- PHP >=5.4.0 
+- PHP >= 5.4.0 
 - Redis >= 2.6.12
-- ext-redis >=2.2.7
+- ext-redis >= 2.2.7
 - Yii2 ~2.0.4
 
 Installation
